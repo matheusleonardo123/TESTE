@@ -41,3 +41,6 @@ Siga os passos descritos na documentação do Zabbix: Instalando frontend
 
 Comece a usar Zabbix
 
+
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+
